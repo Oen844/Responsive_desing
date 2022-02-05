@@ -1,0 +1,15 @@
+.plans-container--slider {
+    justify-content: center;
+}
+.main-tables-container {
+    display: flex;
+    justify-content: center;
+    
+}
+.product-cards--slider {
+    display: flex;
+    justify-content: center;
+}
+.main-currency-table .currency-table--title{
+margin-top: 36px;
+}
