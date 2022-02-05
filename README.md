@@ -17,6 +17,12 @@ Los objetivos del proyecto son:
 Un proyecto para mejorar en el diseñor de webs, para ello se hace uso de buenas practicas de acesibilidad, manejo del css, uso de buenas prácticas, BEM,
 diferentes hojas de estilos para evitar la carga excesiva de archivos.
 
+## PERFORMANCE :rocket:
+
+![alt text](https://github.com/Oen844/Responsive_desing/blob/main/assets/imgPer/2022-02-05%2023_21_54-Document.png)
+
+ [Link demo video](https://youtu.be/6aw-_RPRyzg)
+ 
 #### AUTHORS :monkey:
 
 ---
